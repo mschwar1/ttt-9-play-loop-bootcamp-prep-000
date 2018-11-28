@@ -44,3 +44,5 @@ def play(board)
     counter+=1
   end
 end
+
+#rspec spec/02_play_spec.rb
